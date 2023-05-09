@@ -1,0 +1,691 @@
+Aakre Lasteaed-Algkool;58.09802179999999;26.2025019
+Abja Gümnaasium;58.126242;25.363528
+Adavere Põhikool;58.708366;25.899771
+Alavere Põhikool;59.2464739;25.3269338
+Albu Põhikool;59.1533613;25.6592301
+Ala Põhikool;58.0123164;25.6949717
+Aegviidu Kool;59.2877334;25.6095532
+Alu Kool;59.0251997;24.7635501
+Aravete Keskkool;59.1429473;25.7555914
+Anija Valla Lasteaiad;59.32656959999999;25.5165706
+Ambla-Aravete Kool;59.1446632;25.7563553
+Anni Lasteaed;58.35717750000001;26.6974678
+Antsla Gümnaasium;57.8318052;26.5308385
+Ardu Kool;59.10209080000001;25.3576929
+Are Kool;58.5278552;24.5593082
+Aseri Kool;59.448876;26.8595377
+Aruküla Põhikool;59.364924;25.076768
+Aruküla Lasteaed Rukkilill;59.3645749;25.078923
+Assaku Lasteaed (Aruheina filiaal);59.3745175;24.8572171
+Aste Põhikool;58.3476447;22.4440885
+Audru Lasteaed;58.4145053;24.3539652
+Audru Kool;58.4226725;24.3137902
+Audentese Erakool;59.4040165;24.712206
+August Kitzbergi nimeline Gümnaasium;58.1021022;25.5579258
+Avinurme Gümnaasium;58.9858269;26.8693236
+Avatud Kool;59.4422384;24.7102623
+Avinurme Lasteaed Naerulind;58.9843449;26.8698258
+Carl Robert Jakobsoni nimeline Torma Põhikool;58.8192448;26.7140309
+Eesti Rahvusvaheline Kool;59.4273001;24.7628071
+Eidapere Kool;58.7523537;24.9418581
+Elva Lasteaed Murumuna;58.2223126;26.4166827
+Elva Gümnaasium;58.2170655;26.4124441
+Emili Kool;59.4224149;24.7992179
+Eralasteaed Kalli-kalli;59.422675;24.799299
+Emmaste Põhikool;58.70365399999999;22.5991259
+Eralasteaed Naba;59.4695792;24.8414102
+Haabneeme Kool;59.5125959;24.837092
+Haljala Lasteaed Pesapuu;59.4326803;26.2695727
+Eralasteaed Lillelapsed;59.5127158;24.8227368
+Haapsalu Kutsehariduskeskus;58.93924550000001;23.5855073
+Hellenurme Mõis eralasteaed;58.1355024;26.3839185
+Gustav Adolfi Gümnaasium;59.43971709999999;24.7432378
+Haanja Kool;57.7218475;27.0505542
+Friedebert Tuglase nimeline Ahja Kool;58.2082;27.0720901
+Haapsalu Lasteaed Vikerkaar;58.9359742;23.5429818
+Harkujärve Lasteaed;59.41531369999999;24.6028842
+Haapsalu Põhikool;58.9350817;23.5419228
+Hagudi Põhikool;59.06460860000001;24.8084928
+Harkujärve Põhikool;59.41437610000001;24.6028125
+Haapsalu Lasteaed Tõruke;58.9480313;23.5344372
+Gaia Kool;28.5202241;77.3856153
+Haabersti Vene Gümnaasium;59.417407;24.6480121
+Hiiumaa Gümnaasium;58.9983114;22.7508427
+Harmi Põhikool;59.1187283;25.2036697
+Kambja Põhikool;58.23555989999999;26.6956068
+Hugo Treffneri Gümnaasium;58.3822748;26.7205279
+Haapsalu Viigi Kool;58.9510441;23.5341422
+Iisaku Gümnaasium;59.0946041;27.3122676
+Kelvingi Lasteaed;59.5499545;24.839273
+Karjamaa Põhikool;59.4520468;24.7075234
+Juurikaru Põhikool;58.63732219999999;25.0990452
+Ferdinand von Wrangell' i nimeline Roela Lasteaed-Põhikool;59.1702585;26.5938402
+Iisaku Lasteaed Kurekell;59.09706809999999;27.3120322
+Esku-Kamari Kool;58.64170780000001;25.8913664
+Ilmatsalu Lasteaed Lepatriinu;58.3871771;26.5579334
+Imavere Põhikool;58.731867;25.7683871
+Kehtna Lasteaed Siller;58.9254108;24.8726065
+Kehra Linnalasteaed Lastetare;59.33077519999999;25.3348296
+Jaagu Lasteaed-Põhikool;58.38132499999999;25.576972
+Jõhvi Lasteaiad;59.3483426;27.4215002
+Hummuli Põhikool;57.9067306;26.0595571
+Jänesselja Lasteaed;58.4293738;24.4937322
+Keila Kool;59.31338189999999;24.4114153
+Kadrina Keskkool;59.34318769999999;26.1320756
+Kalmetu Põhikool;58.3913241;25.8378166
+Juuru Eduard Vilde Kool;59.05982419999999;24.9592474
+Kihnu Kool;58.1331915;23.9820301
+Järveküla Kool;59.38404269999999;24.8212051
+Jakob Westholmi Gümnaasium;59.43348040000001;24.7311571
+Kalamaja Lasteaed;59.44785049999999;24.7408737
+Jõgeva Lasteaed Karikakar;58.7426249;26.3738982
+Järvakandi Lasteaed Pesamuna;58.77528529999999;24.8146776
+Kehtna Kutsehariduskeskus;58.9249483;24.8684081
+Järveküla Lasteaed;59.3804339;24.83158
+Kasti-Orgita Lasteaed;58.91942909999999;24.4442892
+Järva-Jaani Gümnaasium;59.04719609999999;25.8838252
+Kallavere Keskkool;59.478571;25.0189773
+Kernu Põhikool;59.133967;24.4971728
+Kaiu Põhikool;59.01432;25.0516555
+Kaarli Kool;59.4324049;24.7374934
+Kanepi Lasteaed;57.9878435;26.756593
+Jõhvi Gümnaasium;59.34927210000001;27.4166631
+Jõgevamaa Gümnaasium;58.74602499999999;26.3876457
+Kiili Lasteaed;59.3026416;24.836202
+Kehra Gümnaasium;59.3318306;25.3326675
+Jäneda Kool;59.24251939999999;25.6866783
+Juhan Liivi nimeline Alatskivi Kool;58.5996687;27.1356609
+Illuka Kool;59.23611359999999;27.4934278
+Kavastu Algkool-Lasteaed;58.38142329999999;27.0428906
+Kaiu Lasteaed Triinutare;59.0137262;25.0502222
+Kallaste Lasteaed-Põhikool;58.66440199999999;27.161417
+Kiili Gümnaasium;59.30331899999999;24.8405985
+Järvamaa Kutsehariduskeskus;58.8920394;25.5678526
+Kiigemetsa Kool;58.7266904;26.3371414
+Kiiu Kiigepõnni Lasteaed;59.4487547;25.392926
+Kabala Lasteaed-Põhikool;58.92258849999999;24.6528643
+Kehtna Põhikool;58.9289587;24.8693332
+Kilingi-Nõmme Gümnaasium;58.1510927;24.9524664
+Kadrina Lasteaed Sipsik;59.3408375;26.1354526
+Kahtla Lasteaed-Põhikool;58.4035931;22.9980725
+Imavere Lasteaed Mõmmi;58.73503940000001;25.7701057
+Karksi-Nuia Lasteaed;58.1014449;25.5540843
+Kanepi Gümnaasium;57.9868269;26.7601069
+Innovatsioonikeskus Innokas (seadmete kasutajad: Haapsalu Linna Algkool, Haapsalu Nikolai Kool, Haapsalu Põhikool);58.9350817;23.5419228
+Eralasteaed Pääsupoeg;59.5374403;24.7953178
+Halliste Lasteaed Pääsuke;58.14242669999999;25.4430761
+Häädemeeste Keskkool;58.0782118;24.4954928
+Haapsalu Vanalinna Lasteaed (endine Haapsalu Lasteaed Päikesejänku);58.9438551;23.5363813
+Ehte Humanitaargümnaasium;59.441407;24.698624
+Eralasteaed TERAKE;58.373358;26.726695
+Elva Lasteaed Õnneseen;58.2311499;26.4096924
+Jõgeva Põhikool;58.7478849;26.3890033
+Jõhvi Vene Põhikool;59.35854800000001;27.4210227
+Jõhvi Põhikool;59.3496081;27.4165367
+Jõõpre Kool;58.4757378;24.3300162
+Jüri Gümnaasium;59.35527889999999;24.9085126
+Koeru Keskkool;58.9614217;26.0185456
+Kiviõli Vene Kool;59.3529278;26.9669038
+Koeru Lasteaed Päikeseratas;58.9593139;26.0184195
+Kivi-Vigala Põhikool;58.71194669999999;24.3612877
+Klooga Lasteaed;59.31953919999999;24.2494379
+Kohila Gümnaasium;59.1679053;24.755496
+Kiviõli 1. Keskkool;59.3581997;26.9744941
+Kiviõli linna lasteaed Kannike;59.3619034;26.9766209
+Kohtla-Järve Gümnaasium;59.40517639999999;27.289286
+Kilingi-Nõmme Lasteaed Krõll;58.1476066;24.9580099
+Kohila Lasteaed Männi;59.1697047;24.7495181
+Kohtla-Järve Lasteaed Buratino;59.3995214;27.2894644
+Kohtla-Järve Järve Kool;59.39952770000001;27.2944966
+Kohtla-Järve Lasteaed Kirju-Mirju;59.40392319999999;27.2884294
+Kohtla-Järve Lasteaed Pääsuke;59.3992987;27.2757917
+Kohtla-Järve Ahtme Põhikool;59.3240013;27.4288673
+Kohtla-Järve Lasteaed Lepatriinu;59.4038235;27.2831897
+Kohtla-Järve Lasteaed Rukkilill;59.39733260000001;27.279987
+Kohtla-Järve Lasteaed Muinasjutt;59.3709932;27.5731808
+Kohtla-Järve Lasteaed Karuke;59.40884209999999;27.2893785
+Kohtla-Järve Kesklinna Põhikool;59.3969497;27.2724342
+Kohtla-Järve Lasteaed Punamütsike;59.32441720000001;27.426871
+Kohtla-Järve Järve Vene Gümnaasium;59.3956337;27.2688818
+Kohila Mõisakool;59.17372510000001;24.7501421
+Kohtla-Järve Lasteaed Kakuke;59.32548999999999;27.4124271
+Kohila Lasteaed Sipsik;59.1730741;24.7519777
+Kohtla-Järve Lasteaed Aljonuška;59.406462;27.288885
+Kohtla-Järve Lasteaed Tareke;59.33146610000001;27.4188677
+Kohtla-Järve Tammiku Põhikool;59.3327548;27.4162491
+Kohtla-Järve Slaavi Põhikool;59.4053519;27.2911775
+Koigi Kool;58.8333528;25.7503209
+Kohtla-Järve Lasteaed Tuvike;59.3973723;27.3436809
+Kohtla-Järve Maleva Põhikool;59.3271406;27.4264304
+Kohtla-Järve Täiskasvanute Gümnaasium;59.4009537;27.2871165
+Kohtla-Nõmme Kool;59.35479229999999;27.1929696
+Kohtla-Järve Lasteaed Tuhkatriinu;59.3357162;27.410919
+Kolga-Jaani Kool;58.5328219;25.9442828
+Kolga Lasteaed;59.49165689999999;25.61424
+Kolga-Jaani Lasteaed "Naksitrallid";58.5321387;25.9478279
+Koonga Kool;58.5791505;24.1502202
+Kolga Kool;59.49221369999999;25.6006641
+Konguta Kool;58.26663250000001;26.3087387
+Kolkja Lasteaed-Põhikool;58.546559;27.208264
+Kose Gümnaasium;59.1852829;25.1641611
+Kose-Uuemõisa Lasteaed-Kool;59.20474139999999;25.0989764
+Kosejõe Kool;59.2059925;25.1053241
+Kuusalu Keskkool;59.47013430000001;25.4349642
+Krootuse Lasteaed Pesapuu;58.07275130000001;26.842025
+Krootuse Põhikool;58.0724729;26.8424653
+Kostivere Kool;59.4253819;25.0931451
+Krabi Kool;57.6094248;26.8317213
+Kuressaare Vanalinna Kool;58.2577309;22.4812261
+Kullamaa Keskkool;58.87949769999999;24.0777402
+Kuressaare Pargi Lasteaed;58.25123960000001;22.4805689
+Kurtna Kool;59.23106189999999;24.7198934
+Kuremaa Lasteaed-Algkool;58.735877;26.538596
+Kulina Lasteaed;59.20898419999999;26.557169
+Kuressaare Gümnaasium;58.2483266;22.4987427
+Kuuste Kool;58.25288399999999;26.7823638
+Kunda Ühisgümnaasium;59.5004381;26.5130361
+Kose Lasteaed PäevaLill;59.1819836;25.1660381
+Kuressaare Linnavalitsus (seadmete kasutajad: Pargi lasteaed, Rohu lasteaed, Ida-Niidu lasteaed, Ristiku lasteaed, Tuulte Roosi lasteaed);58.25123960000001;22.4805689
+Käru Põhikool;58.832451;25.146307
+Kärdla Põhikool;58.9983114;22.7508428
+Kõrveküla Põhikool;58.42400929999999;26.7634715
+Kõrveküla lasteaed Päikeseratas;58.42483129999999;26.7613277
+Käina Kool;58.8325779;22.7853279
+Kõmsi Lasteaed-Algkool;58.6249213;23.6342995
+Kärla Lasteaed;58.3288325;22.2587355
+Lasteaed Tõruke;58.361472;26.700495
+Lasteaed Taaramäe;59.3571582;24.912817
+Lasteaed Pääsupesa;59.4428356;24.6924361
+Lagedi Kool;59.4014448;24.9437856
+Lasteaed Puhhi;58.377069;26.777009
+Lasteaed Pisipõnn;59.2616346;25.9662457
+Lasteaed Vikerkaar;59.41609760000001;24.6441834
+Laeva Põhikool;58.48615659999999;26.3798307
+Loo Lasteaed Pääsupesa;59.4428356;24.6924361
+Kärla Põhikool;58.3301089;22.2546246
+Laagri Kool;59.3501686;24.6183558
+Lasteaed Väike Päike;59.49976710000001;24.8569588
+Lasnamäe Vene Gümnaasium;59.44265129999999;24.8356092
+Kääpa Põhikool;57.8641896;27.105911
+Lohkva Lasteaed;58.36945499999999;26.795386
+Lasteaed Väike Pauline;58.3836772;26.7099433
+Lasteaed VURR;45.6876422;15.8349428
+Kärdla Lasteaed (endine Hiiu Valla Lasteaed);59.001044;22.7474356
+Leie Lasteaed Sipelgapesa;58.4272702;26.0233659
+Lauka Põhikool;58.96269599999999;22.5231971
+Laupa Põhikool;58.7614028;25.3728364
+Lihula Gümnaasium;58.6852731;23.8392206
+Loksa Lasteaed Õnnetriinu;59.5845359;25.7292197
+Luunja Keskkool;58.354823;26.8731935
+Loovalt tuleviku kool;59.45115069999999;24.7133751
+Luunja Lasteaed Midrimaa;58.35497770000001;26.875967
+Leisi Kool;58.567124;22.6846238
+Läänemaa Ühisgümnaasium;58.9466765;23.5340939
+Lähte Ühisgümnaasium;58.49419929999999;26.6849579
+Lüganuse Kool;59.372662;27.0453884
+Melliste Algkool-Lasteaed;58.3319476;26.9818854
+Lõpe Kool;58.57188549999999;23.9898743
+Lümanda Põhikool;58.28597300000001;22.027501
+Metsküla Algkool;58.72528620000001;23.6234982
+Lüllemäe Põhikool;57.7530229;26.3794818
+Merivälja Kool;59.4929316;24.8468327
+Mustvee Kool;58.8483378;26.9406557
+Mooste Lasteaed;58.15901969999999;27.1904803
+Narva Kreenholmi Gümnaasium;59.36507779999999;28.191789
+Lääne-Nigula valla lasteaiad (Linnamäe Lasteaed, Risti Lasteaed, Taebla Lasteaed, Palivere Lasteaed);58.9653621;23.8928687
+Meremäe Kool;57.74822769999999;27.4586578
+Laiuse Jaan Poska Põhikool;58.78290209999999;26.4970328
+Miina Härma Gümnaasium;58.3767411;26.7090166
+Paikuse Põhikool;58.3651291;24.6252702
+Narva Lasteaed Potsataja;59.3792457;28.1695252
+Narva Lasteaed Tuluke;59.38537469999999;28.1745422
+Narva Lasteaed Kaseke;59.37641929999999;28.1840219
+Muuga-Laekvere Kool (endine Laekvere Põhikool ja Muuga Põhikool);59.11128970000001;26.6340877
+Nõo Reaalgümnaasium;58.27969419999999;26.5349494
+Otepää Gümnaasium;58.05344879999999;26.4946142
+Mammaste Lasteaed ja Kool (nüüd Põlva Lasteaed Pihlapuu ja Põlva Kool);58.05372999999999;27.0545444
+Munitsipaallasteasutus Viimsi Lasteaiad;59.5233825;24.8146633
+Narva-Jõesuu Lasteaed Karikakar;59.45638929999999;28.0468759
+Paide Gümnaasium;58.8881039;25.5722689
+Otepää Lasteaed;58.06210009999999;26.5016798
+Padise Lasteaed;59.22426650000001;24.1450202
+Olustvere Lasteaed Piilu;58.5576551;25.5615001
+Palade Lasteaed;58.95762920000001;22.8339796
+Paistu Kool;58.24094179999999;25.5917346
+Paide Sookure Lasteaed;58.8926542;25.5618014
+Narva Pähklimäe Gümnaasium;59.3847127;28.1704752
+Padise Põhikool;59.2253064;24.1485152
+Pajusti Lasteaed Tõrutõnn;59.284546;26.4135047
+Palade Põhikool;58.96468350000001;22.8441543
+Palamuse Lasteaed Nukitsamees;58.6823781;26.5776516
+Narva Lasteaed Sipsik;59.3796931;28.179075
+Paldiski Lasteaed Naerulind;59.35129;24.0580445
+Paikuse Lasteaed (endine Paikuse Lasteaed Mesimumm);58.375124;24.612656
+Nõlvaku Lasteaed;59.352246;24.63649
+Orissaare Gümnaasium;58.55995;23.082082
+Lähte Lasteaed Kiisupere;58.4956535;26.6781438
+Oru Põhikool;59.189809;24.988753
+Narva Lasteaed Põngerjas;59.36706450000001;28.1903237
+Noarootsi Kool;59.006008;23.523217
+Lasteaed Vigri;58.9813365;22.4642344
+Lindi Lasteaed-Algkool;58.32757429999999;24.287703
+Nissi Põhikool;59.108185;24.314864
+Lusti Lasteaed;57.826618;26.508089
+Mehikoorma Põhikool;58.2368637;27.4697961
+Laulasmaa Kool;59.376294;24.241999
+Lehtse Kool;59.24960729999999;25.8252977
+Nõgiaru Lasteaed;58.311549;26.544776
+Oskar Lutsu Palamuse Gümnaasium;58.68365;26.578662
+Maardu Lasteaed Sipsik;59.4758745;25.0232564
+Lohusuu Kool;58.95198619999999;27.0438993
+Olustvere Põhikool;58.555223;25.566335
+Maarjamaa Hariduskolleegium;58.3478165;26.8862818
+Oru Kool;58.995382;23.71827
+Nõmme Erakool;59.388374;24.687162
+Lasva Lasteaed Pargihaldjas;57.8605306;27.1815694
+Maardu Lasteaed Rukkilill;59.48834759999999;25.021247
+Mooste Mõisakool;58.1608214;27.1914412
+Märjamaa Lasteaed Pillerpall;58.9006696;24.4319351
+Orava Kool;57.88734;27.446393
+Maardu Gümnaasium;59.48655729999999;25.0263988
+Narva lasteaed Tareke;59.379886;28.165552
+Loo Keskkool;59.4281088;24.9504789
+PAIde Lasteaed;58.880903;25.544332
+Narva Lasteaed Käoke;59.3896027;28.1696981
+Narva Kesklinna Gümnaasium;59.36527609999999;28.1813448
+Muraste Kool;59.4571158;24.4413829
+Narva Lasteaed Päikene;59.380389;28.184816
+Oru lasteaed Mesimumm;59.190923;24.990894
+Narva Kutseõppekeskus;59.360613;28.188148
+Muuga Lasteaed;59.4794352;24.9451556
+Narva Lasteaed Cipollino;59.387372;28.182455
+Lasnamäe Põhikool;59.4434494;24.8972196
+Lustivere Põhikool;58.66166819999999;26.0916522
+Martna Põhikool;58.8579104;23.7955304
+Narva Soldino Gümnaasium;59.378974;28.17095
+Nõva Kool;59.221544;23.678132
+Märjamaa Gümnaasium;58.906333;24.426415
+Narva Keeltelütseum (endine Narva Humanitaar-gümnaasium);59.3881528;28.1686224
+Mäetaguse Põhikool;59.2227048;27.2939812
+Narva Paju Kool;59.38794410000001;28.1924344
+Palivere Lasteaed Piibeleht;58.9653621;23.8928687
+Peetri Lasteaed-Põhikool;59.3963222;24.8095604
+Peetri Kool;59.39476870000001;24.8117749
+Paldiski lasteaed Sipsik;59.3552398;24.0544321
+Palivere Põhikool;58.96215400000001;23.896012
+Pangapealse Lasteaed;59.4572025;24.4574013
+Palupera Põhikool;58.1156004;26.3340137
+Parksepa Lasteaed;57.9078461;26.9837687
+Parksepa Keskkool;57.9036504;26.9858944
+Pelgulinna Gümnaasium;59.4344935;24.7149457
+Pirita Kose Lasteaed;59.4585315;24.8473075
+Pikakannu Kool;57.8724432;27.2439485
+Pelguranna Lasteaed;59.4454071;24.6886132
+Pisisaare Algkool;58.723414;25.962069
+Pirita Majandusgümnaasium;59.4698903;24.8412992
+Pirita Lasteaed;59.4716287;24.8408646
+Pikavere Mõisakool;59.2775275;25.1360432
+Porkuni Kool;59.1843433;26.1911094
+Puiga Põhikool;57.7960782;27.0316193
+Puiga Lasteaed Siilike;57.7983788;27.0310493
+Põltsamaa Ühisgümnaasium;58.6571869;25.9706712
+Prangli Põhikool;59.6289188;25.0107561
+Prillimäe Lasteaed Põnnipere;59.17796419999999;24.7991463
+Puhja Lasteaed Pääsusilm;58.3348299;26.3113759
+Põltsamaa Lasteaed Tõruke;58.6641583;25.9729001
+Puhja Kool;58.3365295;26.3099764
+Puka Keskkool;58.0533441;26.2261496
+Põltsamaa Lasteaed MARI;58.6555791;25.9795498
+Põlgaste Lasteaed Sinilill;57.9800613;26.8742204
+Puurmani Mõisakool;58.5747323;26.2896284
+Põlula Kool;59.313047;26.629073
+Põlva Lasteaed Pihlapuu;58.0541785;27.0434482
+Põnnipesa Lasteaed;59.509809;24.824972
+Põlva Kool;58.05372999999999;27.0545444
+Põlva Lasteaed Mesimumm;58.0594595;27.0723953
+Põlva Lasteaed Lepatriinu;58.050691;27.0504666
+Pärnu Lasteaed Päikesejänku;58.39367459999999;24.4723477
+Pärnu Kuninga Tänava Põhikool;58.3833835;24.5057607
+Pärnu Koidula Gümnaasium;58.36748109999999;24.5477986
+Pärnu Lasteaed Trall;58.40197550000001;24.5030863
+Pärnu Mai Kool;58.3734896;24.5304451
+Pärnu Lasteaed Kelluke;58.3737224;24.5367126
+Pärnu Kesklinna Lasteaed;58.38037670000001;24.5038564
+Pärnu Lasteaed Pöialpoiss;58.37;24.5437486
+Pärnu Kastani Lasteaed;58.3817748;24.5281084
+Pärnu Lasteaed Mai;58.369376;24.5368649
+Pärnu Raeküla Kool;58.3560943;24.5738857
+Põlva valla Lasteaed Sinilind (endine Vastse-Kuuste Lasteaed Kaari);58.16456619999999;26.9319103
+Pärnu Liblika Lasteaed;58.3904042;24.5316007
+Pärnu Sütevaka Humanitaargümnaasium;58.38343949999999;24.5018851
+Pärnu Raja Lasteaed (endine Pärnu Lasteaed Pillerpall 1438) ;58.3643411;24.5466183
+Pärnu Rääma Põhikool;58.39556;24.5132859
+Pärnu Raeküla Lasteaed;58.3596661;24.5665204
+Pärnumaa Kutsehariduskeskus;58.38604439999999;24.5402801
+Rakvere Eragümnaasium;59.35390859999999;26.3567647
+Raikküla Kool;58.93418439999999;24.7589027
+Pärnu Tammsaare Lasteaed;58.376889;24.5035421
+Pärnu-Jaagupi Põhikool;58.60963530000001;24.4998715
+Pärnu-Jaagupi Lasteaed Pesamuna;58.6045687;24.5058868
+Rakvere Ametikool;59.3381489;26.3765048
+Pärnu Vanalinna Põhikool;58.38274149999999;24.5001544
+Rakvere Gümnaasium;59.3440968;26.3644351
+Pärnu Ülejõe Lasteaed;58.39222009999999;24.4923553
+Raadi Lasteaed Ripsik;58.4027307;26.7392826
+Rakke Lasteaed Leevike;58.9932566;26.2311454
+Rakke Kool;58.9918645;26.2312073
+Pärnu Ühisgümnaasium;58.38177080000001;24.5171053
+Püha Johannese Kool;59.40664409999999;24.7049818
+Pärnu Tammsaare Kool;58.3756073;24.5117856
+Pärnu Vana-Sauga Lasteaed (endine Pärnu Kadri Lasteaed);58.39698910000001;24.4926357
+Pärnu Vabakool (MTÜ Pärnu Vabakooli Selts: allüksused Pärnu Vabakool, Pärnu Loovuskeskus;58.3920344;24.4911964
+Rakvere Reaalgümnaasium;59.3476572;26.3697226
+Rannamõisa Lasteaed;59.43898859999999;24.5155035
+Rapla Lasteaed Kelluke;59.0034829;24.7904823
+Rakvere Põhikool;59.33785789999999;26.3592854
+Rakvere Kungla Lasteaed;59.3429843;26.3676164
+Rakvere Triinu Lasteaed;59.34410750000001;26.3703689
+Rapla Lasteaed Naksitrallid;58.9938496;24.8197572
+Rakvere Rohuaia Lasteaed;59.35250129999999;26.3639692
+Randvere Kool;59.5035012;24.900166
+Rapla Vesiroosi Kool;58.9972454;24.8139524
+Ridala Põhikool;58.82956120000001;23.5794844
+Ramsi Lasteaed Taruke;58.30693599999999;25.5415387
+Risti Kool;59.22803700000001;24.0140155
+Rannu Kool;58.2400584;26.2159979
+Roosna-Alliku Põhikool;59.02975430000001;25.7049999
+Saarepeedi Kool;58.42907580000001;25.6856877
+Rõõmutarekese Lasteaed;59.4281793;24.7367679
+Rõngu Lasteaed Pihlakobar;58.1453704;26.2441398
+Räpina Lasteaed Vikerkaar;58.09340289999999;27.469275
+Saku Gümnaasium;59.3034727;24.6744484
+Sadala Kool;58.8622889;26.5999955
+Saaremaa Ühisgümnaasium;58.25955579999999;22.4891856
+Saverna Lasteaed Sipsik;58.07107419999999;26.7378849
+Saue Lasteaed Midrimaa;59.3274687;24.5636536
+Sillamäe Lasteaed Rukkilill;59.39589299999999;27.7579462
+Sillamäe Vanalinna Kool;59.39330929999999;27.7593192
+Sillamäe Gümnaasium;59.39276470000001;27.7886629
+Rocca al Mare Kooli AS Veskimöldre Lasteaed;59.35664190000001;24.5920263
+Rapla Lasteaed Päkapikk;58.9972933;24.7945466
+Siimusti Lasteaed-Algkool;58.72454949999999;26.3387872
+Saverna Põhikool;58.0701633;26.7409992
+Rocca al Mare Kool;59.43133539999999;24.6500754
+Ruhnu Põhikool;57.8006676;23.2436184
+Rapla Kesklinna Kool;59.004441;24.787404
+Rõuge Põhikool;57.73117939999999;26.9304105
+Rõuge Lasteaed;57.7289823;26.9074985
+Salme Põhikool;58.1667612;22.2505937
+Roosna-Alliku Lasteaed Hellik;59.02799789999999;25.7098346
+Retla-Kabala Kool;58.7569646;25.5650396
+Risti Põhikool;58.9968846;24.0630353
+Räpina Ühisgümnaasium;58.09659859999999;27.463469
+Sillamäe Eesti Põhikool;59.39286310000001;27.765988
+Sillamäe Lasteaed Jaaniussike;59.3934551;27.7799345
+Ristiku Põhikool;59.44196369999999;24.7128871
+Saaremaa Vallavalitsus (seadmete kasutajad: Mustjala kool-lasteaed, Orissaare lasteaed, Lümanda lasteaed, Kaali kool, Pihtla kool, Salme lasteaed, Aste lasteaed, Tornimäe lasteaed, Pärsama Lasteaed, Kihelkonna kool);58.50554899999999;22.7461162
+Ruila Põhikool;59.1912412;24.4392079
+Sillamäe Lasteaed Päikseke;59.39314479999999;27.7861165
+Sillamäe Lasteaed Pääsupesa;59.3933404;27.7666212
+Surju Põhikool;58.233403;24.73331
+Simuna Kool;59.0464898;26.4069259
+Sipa-Laukna Lasteaed;58.92868799999999;24.3108189
+Sillaotsa Kool;58.2926781;26.8946293
+Sinimäe Põhikool;59.37432699999999;27.8742949
+Sindi Gümnaasium;58.4064181;24.6578029
+Sindi Lasteaed;58.40562749999999;24.653617
+Tabasalu Ühisgümnaasium;59.4272298;24.5335686
+Soinaste Lasteaed Laululind;58.33203769999999;26.7226803
+Sonda Kool;59.3509726;26.8386816
+Surju Lasteaed;58.2411725;24.7203704
+Tabivere Lasteaed;58.54990069999999;26.5994382
+Sõmeru Lasteaed Pääsusilm;59.3612081;26.4345831
+Tabasalu Teelahkme Lasteaed;59.4319224;24.5577268
+Suure-Jaani Lasteaed;58.5392823;25.4700652
+Taebla Kool;58.95766399999999;23.7671531
+Suure-Jaani Kool;58.5385904;25.469606
+Tabasalu Lasteaed Tibutare;59.42860940000001;24.5399119
+Sõmerpalu Lasteaed Lepatriinu;57.84700419999999;26.8335626
+Tallinna 21. Kool;59.43538069999999;24.7663667
+Tallinna Endla Lasteaed;59.4286516;24.7333891
+Tallinna Arbu Lasteaed;59.4430005;24.8428293
+Tallinna Allika Lasteaed;59.4001864;24.6986482
+Tahkuranna Lasteaed-Algkool;58.21832240000001;24.4892467
+Tallinna Humanitaargümnaasium;59.42225489999999;24.738261
+Sõmeru Põhikool;59.36157299999999;26.4205607
+Tallinna Euroopa Kool;59.4365258;24.7278719
+Taebla Lasteaed;58.95359610000001;23.7448562
+Tallinna Heleni Kool;59.4424904;24.6997557
+Tallinna Arte Gümnaasium;59.4038514;24.6912395
+Tabivere Põhikool;58.5476094;26.6063829
+Tallinna Haraka Lasteaed;59.4099236;24.7272039
+Tallinna 53. Keskkool;59.39647169999999;24.6870082
+Tallinna 32. Keskkool;59.410165;24.695056
+Tallinna Juudi Kool;59.43893329999999;24.7659343
+Tallinna Kristiine Gümnaasium;59.4179664;24.7208286
+Tallinna Kesklinna Põhikool;59.4340452;24.7469911
+Tallinna Kiisupere Lasteaed;59.43258759999999;24.7556119
+Tallinna Kadaka Põhikool;59.4050081;24.6654902
+Tallinna Kesklinna Vene Gümnaasium;59.4331485;24.7682412
+Tallinna Kivimurru Lasteaed;59.42709989999999;24.7911842
+Tallinna Järveotsa Lasteaed;59.40985260000001;24.6360716
+Tallinna Kivimäe Põhikool;59.3752863;24.6446178
+Tallinna Lasteaed Karikakar;59.41654279999999;24.6500235
+Tallinna Kullatera Lasteaed;59.41466789999999;24.7368467
+Tallinna Kihnu Lasteaed;59.4530337;24.8653707
+Tallinna Laagna Gümnaasium;59.4378958;24.8397854
+Tallinna Kuristiku Gümnaasium;59.4461303;24.8794852
+Tallinna Lasteaed Kirsike;59.4347495;24.8274858
+Tallinna Lasteaed Mudila;59.4447929;24.7395753
+Tallinna Lasteaed Mesipuu;59.45336260000001;24.6896877
+Tallinna Lasteaed Ojake;59.4346908;24.7100675
+Tallinna Lasteaed Pallipõnn;59.4010488;24.663561
+Tallinna Lauliku Lasteaed;59.37981730000001;24.6516185
+Tallinna Lasteaed Kaseke;59.3550608;24.6191368
+Tallinna Lasteaed Delfiin;59.3994421;24.6942847
+Tallinna Lasteaed Pääsusilm;59.4082927;24.6458732
+Tallinna Lasteaed Rabarüblik;59.36676910000001;24.6406316
+Tallinna Lille Lasteaed;59.4272266;24.710159
+Tallinna Liikuri Lasteaed;59.4408305;24.8186059
+Tallinna Linnupesa Lasteaed;59.4182202;24.7270669
+Tallinna Läänemere Lasteaed;59.4524391;24.8823654
+Tallinna Mardi Lasteaed;59.4304486;24.7637738
+Tallinna Lasteaed Kraavikrõll;59.3748127;24.7140562
+Tallinna Lasteaed Päikene;59.441955;24.7016272
+Tallinna Luha Lasteaed;59.42451029999999;24.7386819
+Tallinna Linnamäe Lasteaed;59.4488499;24.8680534
+Tallinna Lilleküla Gümnaasium;59.41944110000001;24.7029525
+Tallinna Liivalossi Lasteaed;59.4287508;24.754699
+Tallinna Lasteaed Sipsik;59.4290958;24.7460446
+Tallinna Lasteaed Südameke;59.4157728;24.7419601
+Tallinna Lasteaed Vikerkaar;59.41609760000001;24.6441834
+Tallinna Magdaleena Lasteaed;59.4161314;24.7339029
+Riisipere Lasteaed;59.103451;24.312514
+Tallinna Inglise Kolledž;59.433146;24.746528
+Tallinna Nõmme Põhikool;59.38568069999999;24.6806271
+Tallinna Mustamäe Reaalgümnaasium;59.40474489999999;24.6912897
+Tallinna Reaalkool;59.43392859999999;24.7491294
+Tallinna Pae Gümnaasium;59.4280757;24.8024676
+Tallinna Priisle Lasteaed;59.4480584;24.8891353
+Tallinna Nõmme Gümnaasium;59.3831539;24.6742172
+Tallinna Mustamäe Humanitaargümnaasium;59.40919179999999;24.6724473
+Tallinna Muhu Lasteaed;59.44928489999999;24.8700428
+Tallinna Männi Lasteaed;59.4037584;24.6753942
+Tallinna Männikäbi Lasteaed;59.4060665;24.662956
+Tallinna Rahumäe Põhikool;59.38302820000001;24.7034712
+Tallinna Nurmenuku Lasteaed;59.4146093;24.6498144
+Tallinna Mustjõe Gümnaasium;59.4293196;24.6922131
+Tallinna Tehnikagümnaasium;59.4016517;24.7014399
+Tartu Erakool;58.37392389999999;26.7263574
+Tallinna Ühisgümnaasium;59.4223428;24.743228
+Tallinna Südalinna Kool;59.42938729999999;24.7519134
+Tallinna Õismäe Vene Lütseum;59.4137417;24.6484509
+Tammiste Lasteaed;58.3933343;24.6055154
+Tallinna Ümera Lasteaed;59.4426743;24.8918461
+Tamsalu Gümnaasium;59.16361550000001;26.1144469
+Tallinna Tuule Lasteaed;59.4372574;24.8255924
+Tallinna Tondi Põhikool;59.4076879;24.725061
+Tapa Gümnaasium;59.2630603;25.9563297
+Tallinna Terakese Lasteaed;59.30274359999999;24.6704427
+Tallinna Tõnismäe Reaalkool;59.4274789;24.7413861
+Tallinna Suur-Pae Lasteaed;59.4344541;24.8222503
+Tallinna Päikesejänku Lasteaed;59.42537720000001;24.7512394
+Tallinna Saksa Gümnaasium;59.3979138;24.6939984
+Tallinna Sikupilli Lasteaed;59.4289614;24.7847772
+Tartu Annelinna Gümnaasium;58.37490279999999;26.7709487
+Tallinna Tihase Lasteaed;59.42069029999999;24.7241172
+Tallinna Transpordikool;59.4114017;24.7036152
+Tallinna Virmalise Lasteaed;59.424077;24.7362696
+Tallinna Tähekese Lasteaed;59.4027282;24.6720295
+Tallinna Vormsi Lasteaed;59.45262789999999;24.8670976
+Tallinna Vaba Waldorfkool;59.44999139999999;24.6913628
+Tartu Aleksander Puškini Kool;58.3795477;26.7453557
+Tallinna Suitsupääsupesa Lasteaed;59.43696079999999;24.7535746
+Tallinna Rännaku Lasteaed;59.3658015;24.6479333
+Tartu Emajõe Kool;58.3838385;26.7230789
+Tartu Erakool (Elva linn);58.37798299999999;26.7290383
+Tartu Katoliku Hariduskeskus;58.38348629999999;26.7105307
+Tartu Herbert Masingu Kool;58.37564939999999;26.7197013
+Tartu Lasteaed Helika;58.37087150000001;26.7343513
+Tartu Karlova Kool;58.3715333;26.7339767
+Tartu Hiie Kool;58.3838915;26.6971254
+Tartu Forseliuse Kool;58.35977819999999;26.7298108
+Tartu Lasteaed Hellik;58.3525177;26.6834685
+Tartu Kroonuaia Kool;58.39107579999999;26.7254973
+Tartu Jaan Poska Gümnaasium;58.37531389999999;26.7197325
+Tartu Kesklinna Kool;58.38267370000001;26.7150588
+Tartu Kristjan Jaak Petersoni Gümnaasium;58.37626050000001;26.7716764
+Tartu Lasteaed Kelluke;58.3769338;26.7685654
+Tartu Lasteaed Kannike;58.37586630000001;26.6856684
+Tartu Karlova Lasteaed (endine Tartu Lasteaed Karoliine);58.3707255;26.7251253
+Tartu Kivilinna Kool;58.377926;26.768635
+Tartu Lasteaed Krõll;58.3761329;26.7606921
+Tartu Lasteaed Annike;58.3809109;26.7438377
+Tartu Lasteaed Naerumaa;58.3763865;26.7157688
+Tartu Lasteaed Ristikhein;58.3559749;26.7366585
+Tartu Lasteaed Pääsupesa;58.3756636;26.7531736
+Tartu Lasteaed Piilupesa;58.3575732;26.7298774
+Tartu Lasteaed Sipsik;58.3749696;26.767266
+Tartu Rahvusvaheline Lasteaed;58.377616;26.713865
+Tartu Rahvusvaheline Kool;58.377616;26.713865
+Tartu Lasteaed Lotte;58.3839111;26.7576065
+Tartu Lasteaed Sass;58.3754678;26.7311084
+Tartu Lasteaed Tripsik (endine Tartu Lasteaed Triinu ja Taavi);58.3749696;26.767266
+Tartu Lasteaed Tõruke;58.3614715;26.7004948
+Tartu Maarjamõisa Lasteaed;58.3725666;26.6993031
+Tartu Lasteaed Poku;58.3751349;26.7604067
+Tartu Lasteaed Klaabu;58.4008151;26.7197796
+Tartu Luterlik Peetri Kool;58.380732;26.7209721
+Tartu Descartes'i Kool;58.3756297;26.7576843
+Tartu Lasteaed Rukkilill;58.35055599999999;26.7256837
+Tartu Mart Reiniku Kool;58.3731674;26.7151673
+Tartu Lasteaed Tähtvere;58.3848885;26.6932138
+Tudu Kool;59.178952;26.855456
+Tartu Waldorfgümnaasium;58.39399900000001;26.6847946
+Tilsi Lasteaed;57.9703703;27.0004205
+Tartu Veeriku Kool;58.37495379999999;26.6866734
+Tartu Variku Kool;58.3512272;26.7152368
+Tartu Tamme Kool;58.36333639999999;26.706152
+Tarvastu Gümnaasium;58.2316535;25.8685912
+Tarvastu Lasteaed;58.2281786;25.9105882
+Tilsi Põhikool;57.9670429;27.0002773
+Tartu Tamme Gümnaasium;58.3642076;26.6887783
+Tsirguliina Kool;57.864065;26.1913519
+Tori Lasteaed;58.47881280000001;24.806619
+Tori Põhikool;58.4765872;24.7982357
+Tootsi Lasteaed-Põhikool;58.58524759999999;24.782606
+Tartu Väike Päike Lasteaed;58.3737749;26.7112005
+Tornimäe Põhikool;58.5048482;23.1157299
+Toila Gümnaasium;59.422203;27.5364093
+Tupsiku Eralasteaed;58.369879;26.774669
+Turba Kool;59.082123;24.2430433
+Tõrva Lasteaed Tõrvalill;58.003792;25.9265348
+Tõrva Gümnaasium;58.0077239;25.9276357
+Vaimastvere Kool;58.8138429;26.2845093
+Tõrvandi Lasteaed Rüblik;58.3212888;26.708468
+Türi Ühisgümnaasium;58.8185285;25.4130112
+Vaida Lasteaed Pillerpall;59.28351290000001;24.9770911
+Tuleviku Lasteaed;59.3517788;24.6188459
+Türi Lasteaed;58.8078193;25.4234752
+Türi Põhikool;58.80966790000001;25.4324373
+Tõstamaa Lasteaed;58.3361578;23.9886894
+Vahenurme Lasteaed-Algkool;58.63598690000001;24.3861828
+Uulu Lasteaed;58.27899499999999;24.578535
+Uhtna Põhikool;59.3963574;26.5675219
+Valgu Põhikool;58.81703239999999;24.5889557
+Valjala Lasteaed;58.40729029999999;22.7928543
+Uuemõisa Lasteaed-Algkool;58.94330589999999;23.5796661
+Vanalinna Hariduskolleegium;59.4385323;24.7486547
+Valtu Põhikool;58.9618383;24.8411953
+Varbola Lasteaed-Algkool;59.045534;24.4516814
+Vana-Vigala Tehnika- ja Teeninduskool;58.779498;24.248772
+Vaivara Lasteaed;59.39244029999999;28.1331392
+Vara Põhikool;58.51105880000001;26.8891338
+Valgamaa Kutseõppekeskus;57.7895084;26.0356534
+Vana-Vigala Lasteaed;58.78031379999999;24.2522778
+Varbla Kool;58.42993790000001;23.7546575
+Valga Lasteaed Buratino;57.7749132;26.0383399
+Valga Priimetsa Kool;57.77659999999999;26.039261
+Valga Gümnaasium;57.7781968;26.040244
+Valjala Põhikool;58.408287;22.7940254
+Valguta Lasteaed-Algkool;58.19063180000001;26.205541
+Valga Põhikool;57.7770534;26.0462478
+Valga Lasteaed Kaseke;57.78031439999999;26.0587322
+Vasalemma Põhikool;59.2305478;24.2516131
+Veskitammi Lasteaed;59.3490437;24.6174578
+Vasalemma Lasteaed Sajajalgne;59.2385799;24.2777774
+Viimsi Kool;59.5079818;24.8335013
+Viiratsi Lasteaed Rüblik;58.3595948;25.6383307
+Vastseliina Lasteaed;57.73167859999999;27.2789078
+Vasta Kool;59.46010579999999;26.6915225
+Vastse-Kuuste Kool;58.1651414;26.9322485
+Veltsi Lasteaed-Algkool;59.3989892;26.277088
+Vastseliina Gümnaasium;57.73458050000001;27.2877097
+Viljandi Lasteaed Mängupesa;58.3544293;25.582399
+Viljandi Paalalinna Kool;58.37164229999999;25.5738491
+Viljandi Kesklinna Kool;58.36531249999999;25.6114857
+Viljandi Jakobsoni Kool;58.3466787;25.5812484
+Vastemõisa Lasteaed Päevalill;58.43779769999999;25.4411975
+Viljandi Lasteaed Männimäe;58.3449915;25.5834056
+Viljandi Kesklinna Lasteaed (endine Viljandi Lasteaed Mesimumm);58.3654917;25.6021475
+Viljandi Lasteaed Karlsson;58.3728887;25.5791608
+Viljandi valla lasteaed Päikesekiir;58.38578990000001;25.7767805
+Viluste Põhikool;57.9937014;27.3301942
+Vinni Lasteaed Tõruke;59.2924876;26.4303139
+Viljandi Lasteaed Krõllipesa;58.3690495;25.5838446
+Viljandi Kutseõppekeskus;58.3902393;25.6619879
+Virtsu Kool;58.57829820000001;23.5358094
+Vohnja Lasteaed-Algkool;59.3742402;26.0410447
+Vivere Kool;59.4050944;24.7189915
+Vinni-Pajusti Gümnaasium;59.2875746;26.4215382
+Võru Gümnaasium;57.84860810000001;26.9961845
+Võnnu Keskkool;58.2831354;27.0518326
+Võhma Lasteaed;58.6320285;25.5508003
+Voka Lasteaed Naksitrallid;59.40563179999999;27.5847783
+Vormsi Lasteaed-Põhikool;58.99076719999999;23.2456109
+Võru Kesklinna Kool;57.8454832;26.996737
+Võru Kreutzwaldi Kool;57.8472591;27.008393
+Voore Põhikool;58.7144312;26.7501626
+Võnnu Lasteaed Värvuke;58.28385789999999;27.0498644
+Võru Lasteaed Päkapikk;57.84511929999999;26.9977061
+Võsu Kool;59.5782777;25.9727553
+Võsukese Lasteaed;59.3542505;24.9060109
+Väike-Maarja Lasteaed;59.1256928;26.254582
+Väimela Lasteaed Rukkilill;57.88948749999999;27.0148923
+Viru-Nigula valla lasteaed Kelluke (endine Kunda Linna Lasteaed Kelluke);59.50489;26.5048099
+Võru Lasteaed Okasroosike;57.843225;27.0026201
+Värska Gümnaasium;57.9550081;27.6371957
+Võru Lasteaed Sõleke;57.8381333;27.0119401
+Vääna Mõisakool;59.388668;24.4145978
+Vändra Lasteaed;58.6545836;25.033234
+Vändra Gümnaasium;58.64643179999999;25.0395029
+Võru Lasteaed Punamütsike;57.8483264;27.0077328
+Väike-Maarja Gümnaasium;59.1268914;26.2486227
+Värska Lasteaed;57.9573233;27.635833
+Väätsa Põhikool;58.8882826;25.4517563
+Väätsa Lasteaed;58.8878155;25.4488947
+Õisu Lasteaed;58.7573865;25.5642228
+Ääsmäe Põhikool;59.2446363;24.5063185
+Ülenurme Lasteaed;58.3142926;26.723647
+Vääna-Jõesuu Kool;59.43251349999999;24.3707469
+Ülenurme Gümnaasium;58.3214688;26.7230932

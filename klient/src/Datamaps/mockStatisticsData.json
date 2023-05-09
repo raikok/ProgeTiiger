@@ -1,0 +1,632 @@
+{
+  "Harju maakond": {
+    "2014": {
+      "lasteaed": 33218,
+      "põhikool": 49980,
+      "gümnaasium": 9023
+    },
+    "2015": {
+      "lasteaed": 32845,
+      "põhikool": 52719,
+      "gümnaasium": 9074
+    },
+    "2016": {
+      "lasteaed": 32417,
+      "põhikool": 55056,
+      "gümnaasium": 9324
+    },
+    "2017": {
+      "lasteaed": 32043,
+      "põhikool": 57499,
+      "gümnaasium": 9847
+    },
+    "2018": {
+      "lasteaed": 31813,
+      "põhikool": 59656,
+      "gümnaasium": 10240
+    },
+    "2019": {
+      "lasteaed": 32157,
+      "põhikool": 61164,
+      "gümnaasium": 10644
+    },
+    "2020": {
+      "lasteaed": 32099,
+      "põhikool": 62026,
+      "gümnaasium": 11300
+    },
+    "2021": {
+      "lasteaed": 32280,
+      "põhikool": 62957,
+      "gümnaasium": 11810
+    }
+  },
+  "Hiiu maakond": {
+    "2014": {
+      "lasteaed": 376,
+      "põhikool": 700,
+      "gümnaasium": 117
+    },
+    "2015": {
+      "lasteaed": 349,
+      "põhikool": 702,
+      "gümnaasium": 119
+    },
+    "2016": {
+      "lasteaed": 349,
+      "põhikool": 701,
+      "gümnaasium": 114
+    },
+    "2017": {
+      "lasteaed": 330,
+      "põhikool": 696,
+      "gümnaasium": 122
+    },
+    "2018": {
+      "lasteaed": 307,
+      "põhikool": 713,
+      "gümnaasium": 113
+    },
+    "2019": {
+      "lasteaed": 292,
+      "põhikool": 717,
+      "gümnaasium": 115
+    },
+    "2020": {
+      "lasteaed": 303,
+      "põhikool": 701,
+      "gümnaasium": 119
+    },
+    "2021": {
+      "lasteaed": 309,
+      "põhikool": 709,
+      "gümnaasium": 128
+    }
+  },
+  "Ida-Viru maakond": {
+    "2014": {
+      "lasteaed": 6462,
+      "põhikool": 12296,
+      "gümnaasium": 1826
+    },
+    "2015": {
+      "lasteaed": 6357,
+      "põhikool": 12287,
+      "gümnaasium": 1851
+    },
+    "2016": {
+      "lasteaed": 6259,
+      "põhikool": 12176,
+      "gümnaasium": 1909
+    },
+    "2017": {
+      "lasteaed": 6088,
+      "põhikool": 11679,
+      "gümnaasium": 1998
+    },
+    "2018": {
+      "lasteaed": 5908,
+      "põhikool": 11547,
+      "gümnaasium": 2024
+    },
+    "2019": {
+      "lasteaed": 5792,
+      "põhikool": 11277,
+      "gümnaasium": 1938
+    },
+    "2020": {
+      "lasteaed": 5616,
+      "põhikool": 11152,
+      "gümnaasium": 1896
+    },
+    "2021": {
+      "lasteaed": 5450,
+      "põhikool": 10858,
+      "gümnaasium": 1885
+    }
+  },
+  "Jõgeva maakond": {
+    "2014": {
+      "lasteaed": 1365,
+      "põhikool": 2709,
+      "gümnaasium": 476
+    },
+    "2015": {
+      "lasteaed": 1345,
+      "põhikool": 2646,
+      "gümnaasium": 505
+    },
+    "2016": {
+      "lasteaed": 1354,
+      "põhikool": 2606,
+      "gümnaasium": 469
+    },
+    "2017": {
+      "lasteaed": 1229,
+      "põhikool": 2500,
+      "gümnaasium": 500
+    },
+    "2018": {
+      "lasteaed": 1213,
+      "põhikool": 2475,
+      "gümnaasium": 474
+    },
+    "2019": {
+      "lasteaed": 1222,
+      "põhikool": 2443,
+      "gümnaasium": 424
+    },
+    "2020": {
+      "lasteaed": 1226,
+      "põhikool": 2438,
+      "gümnaasium": 415
+    },
+    "2021": {
+      "lasteaed": 1242,
+      "põhikool": 2421,
+      "gümnaasium": 402
+    }
+  },
+  "Järva maakond": {
+    "2014": {
+      "lasteaed": 1463,
+      "põhikool": 2657,
+      "gümnaasium": 444
+    },
+    "2015": {
+      "lasteaed": 1427,
+      "põhikool": 2721,
+      "gümnaasium": 419
+    },
+    "2016": {
+      "lasteaed": 1404,
+      "põhikool": 2710,
+      "gümnaasium": 363
+    },
+    "2017": {
+      "lasteaed": 1377,
+      "põhikool": 2801,
+      "gümnaasium": 367
+    },
+    "2018": {
+      "lasteaed": 1346,
+      "põhikool": 2833,
+      "gümnaasium": 382
+    },
+    "2019": {
+      "lasteaed": 1387,
+      "põhikool": 2844,
+      "gümnaasium": 389
+    },
+    "2020": {
+      "lasteaed": 1389,
+      "põhikool": 2778,
+      "gümnaasium": 394
+    },
+    "2021": {
+      "lasteaed": 1386,
+      "põhikool": 2802,
+      "gümnaasium": 400
+    }
+  },
+  "Lääne maakond": {
+    "2014": {
+      "lasteaed": 988,
+      "põhikool": 2179,
+      "gümnaasium": 534
+    },
+    "2015": {
+      "lasteaed": 1003,
+      "põhikool": 2198,
+      "gümnaasium": 494
+    },
+    "2016": {
+      "lasteaed": 1017,
+      "põhikool": 2206,
+      "gümnaasium": 501
+    },
+    "2017": {
+      "lasteaed": 887,
+      "põhikool": 1995,
+      "gümnaasium": 444
+    },
+    "2018": {
+      "lasteaed": 878,
+      "põhikool": 2013,
+      "gümnaasium": 430
+    },
+    "2019": {
+      "lasteaed": 936,
+      "põhikool": 2029,
+      "gümnaasium": 404
+    },
+    "2020": {
+      "lasteaed": 928,
+      "põhikool": 2013,
+      "gümnaasium": 430
+    },
+    "2021": {
+      "lasteaed": 949,
+      "põhikool": 2014,
+      "gümnaasium": 446
+    }
+  },
+  "Lääne-Viru maakond": {
+    "2014": {
+      "lasteaed": 2686,
+      "põhikool": 5582,
+      "gümnaasium": 1021
+    },
+    "2015": {
+      "lasteaed": 2739,
+      "põhikool": 5607,
+      "gümnaasium": 955
+    },
+    "2016": {
+      "lasteaed": 2681,
+      "põhikool": 5635,
+      "gümnaasium": 944
+    },
+    "2017": {
+      "lasteaed": 2745,
+      "põhikool": 5796,
+      "gümnaasium": 969
+    },
+    "2018": {
+      "lasteaed": 2684,
+      "põhikool": 5814,
+      "gümnaasium": 925
+    },
+    "2019": {
+      "lasteaed": 2743,
+      "põhikool": 5810,
+      "gümnaasium": 916
+    },
+    "2020": {
+      "lasteaed": 2744,
+      "põhikool": 5930,
+      "gümnaasium": 924
+    },
+    "2021": {
+      "lasteaed": 2938,
+      "põhikool": 5919,
+      "gümnaasium": 938
+    }
+  },
+  "Põlva maakond": {
+    "2014": {
+      "lasteaed": 1181,
+      "põhikool": 2223,
+      "gümnaasium": 391
+    },
+    "2015": {
+      "lasteaed": 1146,
+      "põhikool": 2213,
+      "gümnaasium": 358
+    },
+    "2016": {
+      "lasteaed": 1109,
+      "põhikool": 2244,
+      "gümnaasium": 326
+    },
+    "2017": {
+      "lasteaed": 983,
+      "põhikool": 2169,
+      "gümnaasium": 299
+    },
+    "2018": {
+      "lasteaed": 970,
+      "põhikool": 2155,
+      "gümnaasium": 299
+    },
+    "2019": {
+      "lasteaed": 965,
+      "põhikool": 2168,
+      "gümnaasium": 327
+    },
+    "2020": {
+      "lasteaed": 982,
+      "põhikool": 2225,
+      "gümnaasium": 327
+    },
+    "2021": {
+      "lasteaed": 1029,
+      "põhikool": 2249,
+      "gümnaasium": 320
+    }
+  },
+  "Pärnu maakond": {
+    "2014": {
+      "lasteaed": 4337,
+      "põhikool": 7342,
+      "gümnaasium": 1477
+    },
+    "2015": {
+      "lasteaed": 4271,
+      "põhikool": 7520,
+      "gümnaasium": 1404
+    },
+    "2016": {
+      "lasteaed": 4208,
+      "põhikool": 7695,
+      "gümnaasium": 1379
+    },
+    "2017": {
+      "lasteaed": 4257,
+      "põhikool": 8189,
+      "gümnaasium": 1401
+    },
+    "2018": {
+      "lasteaed": 4202,
+      "põhikool": 8343,
+      "gümnaasium": 1381
+    },
+    "2019": {
+      "lasteaed": 4260,
+      "põhikool": 8424,
+      "gümnaasium": 1329
+    },
+    "2020": {
+      "lasteaed": 4362,
+      "põhikool": 8469,
+      "gümnaasium": 1371
+    },
+    "2021": {
+      "lasteaed": 4359,
+      "põhikool": 8611,
+      "gümnaasium": 1434
+    }
+  },
+  "Rapla maakond": {
+    "2014": {
+      "lasteaed": 1734,
+      "põhikool": 3128,
+      "gümnaasium": 502
+    },
+    "2015": {
+      "lasteaed": 1745,
+      "põhikool": 3267,
+      "gümnaasium": 437
+    },
+    "2016": {
+      "lasteaed": 1723,
+      "põhikool": 3339,
+      "gümnaasium": 441
+    },
+    "2017": {
+      "lasteaed": 1636,
+      "põhikool": 3390,
+      "gümnaasium": 442
+    },
+    "2018": {
+      "lasteaed": 1636,
+      "põhikool": 3456,
+      "gümnaasium": 466
+    },
+    "2019": {
+      "lasteaed": 1600,
+      "põhikool": 3541,
+      "gümnaasium": 441
+    },
+    "2020": {
+      "lasteaed": 1624,
+      "põhikool": 3560,
+      "gümnaasium": 460
+    },
+    "2021": {
+      "lasteaed": 1652,
+      "põhikool": 3600,
+      "gümnaasium": 457
+    }
+  },
+  "Saare maakond": {
+    "2014": {
+      "lasteaed": 1536,
+      "põhikool": 2641,
+      "gümnaasium": 542
+    },
+    "2015": {
+      "lasteaed": 1598,
+      "põhikool": 2642,
+      "gümnaasium": 541
+    },
+    "2016": {
+      "lasteaed": 1589,
+      "põhikool": 2727,
+      "gümnaasium": 536
+    },
+    "2017": {
+      "lasteaed": 1527,
+      "põhikool": 2778,
+      "gümnaasium": 523
+    },
+    "2018": {
+      "lasteaed": 1499,
+      "põhikool": 2836,
+      "gümnaasium": 516
+    },
+    "2019": {
+      "lasteaed": 1492,
+      "põhikool": 2898,
+      "gümnaasium": 528
+    },
+    "2020": {
+      "lasteaed": 1477,
+      "põhikool": 2930,
+      "gümnaasium": 518
+    },
+    "2021": {
+      "lasteaed": 1534,
+      "põhikool": 2959,
+      "gümnaasium": 512
+    }
+  },
+  "Tartu maakond": {
+    "2014": {
+      "lasteaed": 8552,
+      "põhikool": 14189,
+      "gümnaasium": 3556
+    },
+    "2015": {
+      "lasteaed": 8491,
+      "põhikool": 14652,
+      "gümnaasium": 3475
+    },
+    "2016": {
+      "lasteaed": 8486,
+      "põhikool": 15190,
+      "gümnaasium": 3509
+    },
+    "2017": {
+      "lasteaed": 8829,
+      "põhikool": 16167,
+      "gümnaasium": 3539
+    },
+    "2018": {
+      "lasteaed": 8651,
+      "põhikool": 16643,
+      "gümnaasium": 3628
+    },
+    "2019": {
+      "lasteaed": 8654,
+      "põhikool": 17028,
+      "gümnaasium": 3636
+    },
+    "2020": {
+      "lasteaed": 8755,
+      "põhikool": 17202,
+      "gümnaasium": 3814
+    },
+    "2021": {
+      "lasteaed": 8915,
+      "põhikool": 17224,
+      "gümnaasium": 3984
+    }
+  },
+  "Valga maakond": {
+    "2014": {
+      "lasteaed": 1262,
+      "põhikool": 2692,
+      "gümnaasium": 433
+    },
+    "2015": {
+      "lasteaed": 1281,
+      "põhikool": 2701,
+      "gümnaasium": 387
+    },
+    "2016": {
+      "lasteaed": 1261,
+      "põhikool": 2651,
+      "gümnaasium": 388
+    },
+    "2017": {
+      "lasteaed": 1168,
+      "põhikool": 2561,
+      "gümnaasium": 369
+    },
+    "2018": {
+      "lasteaed": 1120,
+      "põhikool": 2529,
+      "gümnaasium": 375
+    },
+    "2019": {
+      "lasteaed": 1109,
+      "põhikool": 2482,
+      "gümnaasium": 360
+    },
+    "2020": {
+      "lasteaed": 1107,
+      "põhikool": 2481,
+      "gümnaasium": 362
+    },
+    "2021": {
+      "lasteaed": 1126,
+      "põhikool": 2499,
+      "gümnaasium": 374
+    }
+  },
+  "Viljandi maakond": {
+    "2014": {
+      "lasteaed": 2095,
+      "põhikool": 4121,
+      "gümnaasium": 714
+    },
+    "2015": {
+      "lasteaed": 2163,
+      "põhikool": 4130,
+      "gümnaasium": 745
+    },
+    "2016": {
+      "lasteaed": 2160,
+      "põhikool": 4148,
+      "gümnaasium": 766
+    },
+    "2017": {
+      "lasteaed": 2191,
+      "põhikool": 4215,
+      "gümnaasium": 782
+    },
+    "2018": {
+      "lasteaed": 2132,
+      "põhikool": 4286,
+      "gümnaasium": 776
+    },
+    "2019": {
+      "lasteaed": 2124,
+      "põhikool": 4304,
+      "gümnaasium": 760
+    },
+    "2020": {
+      "lasteaed": 2182,
+      "põhikool": 4301,
+      "gümnaasium": 785
+    },
+    "2021": {
+      "lasteaed": 2235,
+      "põhikool": 4296,
+      "gümnaasium": 791
+    }
+  },
+  "Võru maakond": {
+    "2014": {
+      "lasteaed": 1557,
+      "põhikool": 2940,
+      "gümnaasium": 509
+    },
+    "2015": {
+      "lasteaed": 1571,
+      "põhikool": 2921,
+      "gümnaasium": 476
+    },
+    "2016": {
+      "lasteaed": 1558,
+      "põhikool": 2888,
+      "gümnaasium": 462
+    },
+    "2017": {
+      "lasteaed": 1605,
+      "põhikool": 3004,
+      "gümnaasium": 498
+    },
+    "2018": {
+      "lasteaed": 1576,
+      "põhikool": 3071,
+      "gümnaasium": 484
+    },
+    "2019": {
+      "lasteaed": 1597,
+      "põhikool": 3104,
+      "gümnaasium": 478
+    },
+    "2020": {
+      "lasteaed": 1581,
+      "põhikool": 3081,
+      "gümnaasium": 473
+    },
+    "2021": {
+      "lasteaed": 1575,
+      "põhikool": 3109,
+      "gümnaasium": 459
+    }
+  }
+}

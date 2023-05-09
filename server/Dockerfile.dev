@@ -1,0 +1,9 @@
+FROM node:16.20.0-slim as builder
+WORKDIR /app
+
+RUN apt-get update || : && apt-get install python3-pip -y
+RUN --mount=type=cache,target=/root/.cache pip3 install pandas openpyxl xlrd
+
+COPY . /app
+RUN npm i
+CMD ["npm", "run", "dev"]

@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+ComposableMap {
+  overflow: hidden;
+}

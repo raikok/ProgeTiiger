@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for ProgeTiiger device visualization application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Raiko Kittus",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "1.19.0",
+    "cors": "2.8.5",
+    "directory-tree": "^3.2.2",
+    "express": "4.17.1",
+    "nodemon": "2.0.15",
+    "pg": "8.7.1"
+  }
+}
