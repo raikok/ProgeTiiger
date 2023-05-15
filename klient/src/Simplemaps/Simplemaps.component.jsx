@@ -1,8 +1,4 @@
-//import { useCallback, useState, useEffect } from "react"
-//import React from "react";
 import {ComposableMap, Geographies, Geography, Marker, ZoomableGroup} from 'react-simple-maps';
-import jsonData from "../Datamaps/mockData.json";
-import statData from "../Datamaps/mockStatisticsData.json";
 import maakond from '../Datamaps/maakond.topo.json';
 import omavalitsus from '../Datamaps/omavalitsus.topo.json';
 import maakondCentroids from '../Datamaps/maakond.centroids.json';
@@ -35,7 +31,7 @@ const Simplemaps = () => {
     const [perChild, setPerChild] = useState(1);
 
     const handleMarkerEnter = (event, value) => {
-        setPopupLocation({ left: event.pageX + 10, top: event.pageY + 10 });
+        setPopupLocation({left: event.pageX + 10, top: event.pageY + 10});
         setPopupValue(value.kooli_nimi);
         setPopupValue2(value);
     };
@@ -179,7 +175,13 @@ const Simplemaps = () => {
 
                 return (<Marker key={val.maakonnaNimi.toString()} coordinates={[val.long, val.lat]}>
                     <Circle lastSize={lastRadius} toSize={radius} val={val} color={color}/>
-                    <text style={{fill: 'whitesmoke', 'paintOrder': 'stroke', 'stroke': '#000000', 'strokeWidth': radius / 9 + 'px' }} x={-radius * 1.6} fontSize={radius}>{ displayAmount(val.totalSpending) } €</text>
+                    <text style={{
+                        fill: 'whitesmoke',
+                        'paintOrder': 'stroke',
+                        'stroke': '#000000',
+                        'strokeWidth': radius / 9 + 'px'
+                    }} x={-radius * 1.6} fontSize={radius}>{displayAmount(val.totalSpending)} €
+                    </text>
                 </Marker>);
             });
         } else {
@@ -192,7 +194,8 @@ const Simplemaps = () => {
             return filteredSchools.map((val, i) => {
                 const fill = '#F' + val.kooli_id.toString();
                 return (<Marker key={val.kooli_id.toString()} coordinates={[val.long, val.lat]}>
-                    <circle r={1} onMouseEnter={(event) => handleMarkerEnter(event, val)} onMouseLeave={handleClose} fill={fill}/>
+                    <circle r={1} onMouseEnter={(event) => handleMarkerEnter(event, val)} onMouseLeave={handleClose}
+                            fill={fill}/>
                 </Marker>);
             });
         } else {
@@ -242,46 +245,52 @@ const Simplemaps = () => {
     return (
         <div>
             <Container>
-                    <Typography align="center" variant="h5" sx={{ p: 2 }}>ProgeTiigri taotlusvooru andmete kaart</Typography>
-                <Grid spacing={5} container>
-                    <Grid xs={7}>
+                <Typography align="center" variant={window.innerWidth > 400 ? 'h5' : 'subtitle1'}
+                            sx={{ p: window.innerWidth > 600 ? 2 : 0.5 }}>ProgeTiigri taotlusvooru andmete kaart</Typography>
+                <Grid columnSpacing={5} container>
+                    <Grid md={7} xs={12}>
                         {zoom > 4 && <Grid></Grid>}
-                        <SliderComponent sliderChanged={sliderChanged} chosenSchools={filters} zoom={zoom} filterChanged={setPerChild}/>
-                        <Grid>
+                        <SliderComponent sliderChanged={ sliderChanged } chosenSchools={filters} zoom={zoom}
+                                         filterChanged={ setPerChild }/>
+                        {window.innerWidth > 400 && <Grid>
+                            <br></br>
                             <Typography variant="body1" sx={{ p: 1 }}>Maakond: {extra?.MNIMI}</Typography>
-                            <Typography variant="body2" sx={{ p: 1 }}>{extra?.ONIMI ? 'Vald või linn: ' + extra.ONIMI : null}</Typography>
-                        </Grid>
+                            <Typography variant="body2"
+                                        sx={{ p: 1 }}>{extra?.ONIMI ? 'Vald või linn: ' + extra.ONIMI : null}</Typography>
+                        </Grid>}
                     </Grid>
                     <Grid xs={4}>
                         <Grid></Grid>
                         {(perChild === 2 || zoom > 4) &&
                             <Filter filtersChanged={(event) => {
-                            setFilters(event);
-                        }}></Filter>}
+                                setFilters(event);
+                            }}></Filter>}
                     </Grid>
                 </Grid>
             </Container>
-            {zoom > 4 && <Grid><br></br></Grid>}
-            <ComposableMap projection="geoMercator" projectionConfig={{center: [25, 58.5], scale: 6000}}>
-                <ZoomableGroup onMove={zoomChanged} maxZoom={50}>
-                    <Geographies geography={data}>
-                        {({ geographies }) => geographies.map(geo =>
-                            <Geography key={geo.rsmKey}
-                                       geography={geo}
-                                       onMouseEnter={() => {
-                                           setExtra(geo.properties);
-                                       }}
-                                       onMouseLeave={handleClose}
-                                       style={zoomStyling()}
-                            />)}
-                    </Geographies>
+            {(zoom > 4 && window.innerWidth > 600) && <Grid><br></br></Grid>}
+            <Container>
+                <ComposableMap projection="geoMercator" projectionConfig={{center: [25, 58.5], scale: 6000}}>
+                    <ZoomableGroup onMove={zoomChanged} maxZoom={50}>
+                        <Geographies geography={data}>
+                            {({ geographies }) => geographies.map(geo =>
+                                <Geography key={geo.rsmKey}
+                                           geography={geo}
+                                           onMouseEnter={() => {
+                                               setExtra(geo.properties);
+                                           }}
+                                           onMouseLeave={handleClose}
+                                           style={zoomStyling()}
+                                />)}
+                        </Geographies>
 
-                    <DisplaySpendingMarkers/>
-                    <DisplaySchoolDialog/>
-                    <DisplaySchoolMarkers/>
-                </ZoomableGroup>
-            </ComposableMap>
+                        <DisplaySpendingMarkers/>
+                        <DisplaySchoolDialog/>
+                        <DisplaySchoolMarkers/>
+                    </ZoomableGroup>
+                </ComposableMap>
+            </Container>
         </div>);
 };
-// projectionConfig={{x: 464, y: -5, scale: 280}} height={406} width={29}
+
 export default Simplemaps;

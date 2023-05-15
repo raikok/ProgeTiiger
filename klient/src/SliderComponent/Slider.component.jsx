@@ -1,11 +1,7 @@
-import React, {useCallback, useEffect, useImperativeHandle, useState} from "react";
-import spendingData from "../Datamaps/mockSpendingData.json";
-
-import Box from '@mui/material/Box';
+import React, {useCallback, useEffect, useState} from "react";
 import Slider from '@mui/material/Slider';
 import axios from "axios";
 import InputDataFilter from "../Simplemaps/InputDataFilter.component";
-import statData from "../Datamaps/mockStatisticsData.json";
 import Grid2 from "@mui/material/Unstable_Grid2";
 
 const SliderComponent = ({ sliderChanged, chosenSchools, zoom, filterChanged }) => {
@@ -159,17 +155,13 @@ const SliderComponent = ({ sliderChanged, chosenSchools, zoom, filterChanged }) 
         return value;
     }
 
-    function valueLabelFormat(value) {
-        return marks.findIndex((mark) => mark.value === value) + 1;
-    }
-
     return (<div>
         {zoom < 4 && <InputDataFilter filtersChanged={val => {
             setPerChild(Number(val));
             filterChanged(Number(val))
         }}></InputDataFilter>}
 
-        <Grid2 xs={9}>
+        <Grid2 md={9} xs={12}>
             <Slider
                 value={value}
                 onChange={(oldValue, newValue) => handleChange(oldValue, newValue, perChild, false)}

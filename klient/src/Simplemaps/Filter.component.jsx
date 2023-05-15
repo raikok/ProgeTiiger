@@ -48,19 +48,27 @@ const Filter = ({ filtersChanged }) => {
         <Box sx={{ display: 'flex', flexDirection: 'column', ml: 3 }}>
             <FormControlLabel
                 label="Lasteaiad"
-                control={<Checkbox checked={checked[0]} onChange={handleChange2} />}
+                control={<Checkbox
+                    size={window.innerWidth < 600 ? 'small' : 'medium'}
+                    checked={checked[0]} onChange={handleChange2} />}
             />
             <FormControlLabel
                 label="Põhikoolid"
-                control={<Checkbox checked={checked[1]} onChange={handleChange3} />}
+                control={<Checkbox
+                    size={window.innerWidth < 600 ? 'small' : 'medium'}
+                    checked={checked[1]} onChange={handleChange3} />}
             />
             <FormControlLabel
                 label="Gümnaasiumid"
-                control={<Checkbox checked={checked[2]} onChange={handleChange4} />}
+                control={<Checkbox
+                    size={window.innerWidth < 600 ? 'small' : 'medium'}
+                    checked={checked[2]} onChange={handleChange4} />}
             />
             <FormControlLabel
                 label="Kutseõppeasutused"
-                control={<Checkbox checked={checked[3]} onChange={handleChange5} />}
+                control={<Checkbox
+                    size={window.innerWidth < 600 ? 'small' : 'medium'}
+                    checked={checked[3]} onChange={handleChange5} />}
             />
         </Box>
     );
@@ -71,6 +79,7 @@ const Filter = ({ filtersChanged }) => {
                 label="Kõik koolid"
                 control={
                     <Checkbox
+                        size={window.innerWidth < 600 ? 'small' : 'medium'}
                         checked={checked[0] && checked[1] && checked[2] && checked[3]}
                         indeterminate={new Set(checked).size !== 1}
                         onChange={handleChange1}

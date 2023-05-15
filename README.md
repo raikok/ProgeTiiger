@@ -1,7 +1,7 @@
 # ProgeTiiger
  ProgeTiigri taotlusvooru andmete töötlemine ja visualiseerimine interaktiivsel kaardil
 
-#### Veebirakendus on saadaval URLil:
+#### Veebirakendus on saadaval URLil: http://146.190.178.52:3000/map
 
 
 ### Lokaalne käivitus
