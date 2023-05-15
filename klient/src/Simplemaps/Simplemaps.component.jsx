@@ -79,27 +79,24 @@ const Simplemaps = () => {
         return value;
     }
 
-    const filterSchools = useCallback(filters => {
-        setFilteredSchools(schools?.filter(school =>
-            checkIfFilterMatches(school.kooli_aste, filters)));
-    }, [schools]);
+    useEffect(() => {
+        if (schools.length > 0) {
+            setFilteredSchools(schools.filter(school =>
+                checkIfFilterMatches(school.kooli_aste, filters)));
+        }
+    }, [schools, filters]);
 
     const loadSchools = useCallback(async () => {
+        /* if (!schools || schools.length === 0) {  // mock data
+            setSchools(jsonData)
+        }*/
         if (!schools || schools.length === 0) {
-            setSchools(jsonData) // mock data
-            filterSchools(filters);
-        }
-        /*if (!schools || schools.length === 0) {
             const values = await axios.get("/api/values/all");
             if (values.data) {
                 setSchools(values.data);
-                if (filteredSchools.length === 0) {
-                    filterSchools(filters);
-                }
             }
-        }*/
-        //setSchools(jsonData.data);
-    }, [schools, filterSchools, filteredSchools.length, filters]);
+        }
+    }, [schools, filters]);
 
     useEffect(() => {
         loadSchools();
@@ -259,7 +256,6 @@ const Simplemaps = () => {
                         <Grid></Grid>
                         {(perChild === 2 || zoom > 4) &&
                             <Filter filtersChanged={(event) => {
-                            filterSchools(event);
                             setFilters(event);
                         }}></Filter>}
                     </Grid>

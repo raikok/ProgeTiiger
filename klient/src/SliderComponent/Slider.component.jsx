@@ -52,32 +52,26 @@ const SliderComponent = ({ sliderChanged, chosenSchools, zoom, filterChanged }) 
     ];
 
     const loadSpending = useCallback(async () => {
-        setSpending(spendingData);// mock data
+        // setSpending(spendingData);// mock data
 
-        /*await new Promise(async resolve => {
-            if (!spending || spending.length === 0) {
-                const result = await axios.get("/api/values/spending");
-                if (result.data) {
-                    setSpending(result.data);
-                    resolve();
-                }
+        if (!spending || spending.length === 0) {
+            const result = await axios.get("/api/values/spending");
+            if (result.data) {
+                setSpending(result.data);
             }
-        });*/
+        }
     }, [spending, setSpending]);
 
 
     const loadStats = useCallback(async () => {
-        setStatistics(statData); // mock data
+        // setStatistics(statData); // mock data
 
-        /*await new Promise(async resolve => {
-            if (!statistics || statistics.length === 0) {
-                const values = await axios.get("/api/values/statistics");
-                if (values.data) {
-                    setStatistics(values.data);
-                    resolve();
-                }
+        if (!statistics || statistics.length === 0) {
+            const values = await axios.get("/api/values/statistics");
+            if (values.data) {
+                setStatistics(values.data);
             }
-        });*/
+        }
     }, [statistics, setStatistics]);
 
     const getChildrenByAgeGroup = useCallback((input) => {
@@ -150,12 +144,11 @@ const SliderComponent = ({ sliderChanged, chosenSchools, zoom, filterChanged }) 
     }, [getSumOnYears, sliderChanged, value, loadingSum]);
 
     useEffect(() => {
-        loadSpending().then(() => {
-            loadStats().then(() => {
-                handleChange(value, value, 1, init);
-                setInit(false);
-            })
-        });
+        if (spending.length === 0 && statistics.length === 0) {
+            loadSpending().then(() => {
+                loadStats();
+            });
+        }
     }, [handleChange, loadSpending, loadStats, value, init]);
 
     useEffect(() => {
@@ -163,7 +156,7 @@ const SliderComponent = ({ sliderChanged, chosenSchools, zoom, filterChanged }) 
     }, [chosenSchools, handleChange, perChild, value]);
 
     function valuetext(value) {
-        return `${value}°C`;
+        return value;
     }
 
     function valueLabelFormat(value) {
@@ -179,11 +172,9 @@ const SliderComponent = ({ sliderChanged, chosenSchools, zoom, filterChanged }) 
         <Grid2 xs={9}>
             <Slider
                 value={value}
-                valueLabelFormat={valueLabelFormat}
                 onChange={(oldValue, newValue) => handleChange(oldValue, newValue, perChild, false)}
                 getAriaLabel={() => 'Years range'}
                 getAriaValueText={valuetext}
-                valueLabelDisplay="auto"
                 step={null}
                 marks={marks}
                 min={2014}

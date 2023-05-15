@@ -1,4 +1,4 @@
-FROM node:16.15.1-stretch-slim as builder
+FROM node:16.20.0-slim as builder
 WORKDIR /app
 
 RUN apt-get update
